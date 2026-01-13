@@ -2,9 +2,9 @@
 
 This project came from a simple question I had while using Netflix.
 
-I recently spent a lot of time watching documentaries, including the *Evil Influencer* documentary. After finishing it, Netflix started recommending similar documentaries — which made sense — but it also suggested shows from completely different genres, including a sci-fi series (*The Rain*). I ended up liking some of those recommendations, which made me curious about how this actually works behind the scenes.
+I recently spent a lot of time watching documentaries, including the *Evil Influencer* documentary. After finishing it, Netflix started recommending similar documentaries - which made sense - but it also suggested shows from completely different genres, including a sci-fi series (*The Rain*). I ended up liking some of those recommendations, which made me curious about how this actually works behind the scenes.
 
-I know recommendation systems are powered by complex machine learning models, but what caught my interest was the **analysis side** of things — how engagement, watch time, completion, and trends might be analyzed and visualized to understand why certain content performs well and leads to these kinds of recommendations.
+I know recommendation systems are powered by complex machine learning models, but what caught my interest was the **analysis side** of things - how engagement, watch time, completion, and trends might be analyzed and visualized to understand why certain content performs well and leads to these kinds of recommendations.
 
 This project is my attempt to explore that curiosity through **data visualization**. It’s not about building a recommender system, but about understanding how engagement data can be aggregated, explored, and communicated.
 
