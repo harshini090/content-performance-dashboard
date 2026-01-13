@@ -39,7 +39,7 @@ Rather than copying solutions blindly, I focused on understanding *why* certain 
 
 ## Why I Built It This Way
 
-While working on this project, I realized that the hardest part isn’t drawing charts — it’s deciding **what to measure and how to interpret it**.
+While working on this project, I realized that the hardest part isn’t drawing charts - it’s deciding **what to measure and how to interpret it**.
 
 Some choices I made while learning:
 - Prioritizing **watch time** over just views to better represent sustained engagement.
@@ -47,7 +47,7 @@ Some choices I made while learning:
 - Choosing different visualization types (bar charts, line charts, and a heat-style table) based on what kind of comparison made the most sense.
 - Keeping the UI simple so the focus stays on understanding the data rather than visual polish.
 
-A lot of this work was iterative — some charts looked correct technically but didn’t tell a meaningful story until I refined them.
+A lot of this work was iterative - some charts looked correct technically but didn’t tell a meaningful story until I refined them.
 
 ---
 
@@ -67,7 +67,7 @@ Most importantly, it helped me move from simply following tutorials to **actuall
 ## Tech Stack
 
 - React  
-- Recharts  
+- Recharts
 - JavaScript  
 - Vite  
 
