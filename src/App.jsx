@@ -16,7 +16,7 @@ export default function App() {
   const [selectedRegion, setSelectedRegion] = useState("All");
 
  useEffect(() => {
-  fetch(`${import.meta.env.BASE_URL}contentMetrics.json`)
+fetch("/contentMetrics.json")
     .then((res) => res.json())
     .then((json) => setData(json))
     .catch((err) => console.error("Failed to load data:", err));
