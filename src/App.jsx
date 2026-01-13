@@ -15,12 +15,13 @@ export default function App() {
   const [data, setData] = useState([]);
   const [selectedRegion, setSelectedRegion] = useState("All");
 
-  useEffect(() => {
-    fetch("/contentMetrics.json")
-      .then((res) => res.json())
-      .then((json) => setData(json))
-      .catch((err) => console.error("Failed to load data:", err));
-  }, []);
+ useEffect(() => {
+  fetch(`${import.meta.env.BASE_URL}contentMetrics.json`)
+    .then((res) => res.json())
+    .then((json) => setData(json))
+    .catch((err) => console.error("Failed to load data:", err));
+}, []);
+
 
   const filteredData = selectedRegion === "All"
     ? data
