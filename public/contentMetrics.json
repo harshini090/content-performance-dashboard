@@ -1,0 +1,26 @@
+[
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"North America","views":1200000,"watchTimeHours":3800000,"completionRate":74,"week":"2026-W01"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"North America","views":1350000,"watchTimeHours":4200000,"completionRate":76,"week":"2026-W02"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"North America","views":1500000,"watchTimeHours":4600000,"completionRate":78,"week":"2026-W03"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"North America","views":1400000,"watchTimeHours":4400000,"completionRate":77,"week":"2026-W04"},
+
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"Europe","views":900000,"watchTimeHours":2600000,"completionRate":69,"week":"2026-W01"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"Europe","views":980000,"watchTimeHours":2850000,"completionRate":70,"week":"2026-W02"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"Europe","views":1100000,"watchTimeHours":3100000,"completionRate":72,"week":"2026-W03"},
+  {"title":"Echoes of Tomorrow","genre":"Sci-Fi","region":"Europe","views":1050000,"watchTimeHours":3000000,"completionRate":71,"week":"2026-W04"},
+
+  {"title":"City Hearts","genre":"Drama","region":"Asia","views":1500000,"watchTimeHours":4200000,"completionRate":81,"week":"2026-W01"},
+  {"title":"City Hearts","genre":"Drama","region":"Asia","views":1600000,"watchTimeHours":4500000,"completionRate":82,"week":"2026-W02"},
+  {"title":"City Hearts","genre":"Drama","region":"Asia","views":1700000,"watchTimeHours":4800000,"completionRate":83,"week":"2026-W03"},
+  {"title":"City Hearts","genre":"Drama","region":"Asia","views":1650000,"watchTimeHours":4700000,"completionRate":82,"week":"2026-W04"},
+
+  {"title":"Midnight Signals","genre":"Comedy","region":"Latin America","views":780000,"watchTimeHours":2300000,"completionRate":67,"week":"2026-W01"},
+  {"title":"Midnight Signals","genre":"Comedy","region":"Latin America","views":820000,"watchTimeHours":2450000,"completionRate":68,"week":"2026-W02"},
+  {"title":"Midnight Signals","genre":"Comedy","region":"Latin America","views":860000,"watchTimeHours":2600000,"completionRate":69,"week":"2026-W03"},
+  {"title":"Midnight Signals","genre":"Comedy","region":"Latin America","views":840000,"watchTimeHours":2550000,"completionRate":68,"week":"2026-W04"},
+
+  {"title":"Silent Code","genre":"Thriller","region":"North America","views":650000,"watchTimeHours":1900000,"completionRate":62,"week":"2026-W01"},
+  {"title":"Silent Code","genre":"Thriller","region":"North America","views":700000,"watchTimeHours":2050000,"completionRate":64,"week":"2026-W02"},
+  {"title":"Silent Code","genre":"Thriller","region":"North America","views":740000,"watchTimeHours":2200000,"completionRate":65,"week":"2026-W03"},
+  {"title":"Silent Code","genre":"Thriller","region":"North America","views":720000,"watchTimeHours":2150000,"completionRate":64,"week":"2026-W04"}
+]
